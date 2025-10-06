@@ -1,36 +1,26 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C329%20hrs%2051%20mins-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286.8%20thousand%20lines%20of%20code-blue)
 
-> 📦 31.8 kB Used in GitHub's Storage 
- > 
-> 🏆 340 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                679 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                795 commits         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-🌃 Evening                983 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌙 Night                  938 commits         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌞 Morning                679 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+🌆 Daytime                795 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌃 Evening                984 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌙 Night                  938 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Tuesday                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Monday                   392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Tuesday                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 Wednesday                405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Thursday                 498 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Friday                   649 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Thursday                 498 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   649 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
 Saturday                 324 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Sunday                   646 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Sunday                   646 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
 ```
 
 
@@ -60,10 +50,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/milkeclair/milkeclair/main/assets/bar_graph.png)
-
-
- Last Updated on 06/10/2025 13:54:15 UTC
+ Last Updated on 06/10/2025 14:03:37 UTC
 <!--END_SECTION:waka-->
