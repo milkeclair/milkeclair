@@ -30,14 +30,14 @@ Sunday                   657 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     23 hrs 43 mins      ████████████████░░░░░░░░░   63.17 % 
-Markdown                 8 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-TypeScript               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Bash                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-CSS                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Ruby                     25 hrs 37 mins      ██████████████░░░░░░░░░░░   54.46 % 
+Markdown                 10 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+TypeScript               6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Bash                     3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+CSS                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Mac                      37 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      47 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -53,5 +53,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2025 18:43:00 UTC
+ Last Updated on 21/10/2025 18:41:33 UTC
 <!--END_SECTION:waka-->
