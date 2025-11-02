@@ -3,20 +3,55 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2023%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-315.1%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                749 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+🌆 Daytime                811 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+🌃 Evening                1008 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+🌙 Night                  971 commits         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Tuesday                  498 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Wednesday                423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Thursday                 515 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   682 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Saturday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Sunday                   680 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Ruby                     23 hrs 38 mins      ██████████████░░░░░░░░░░░   55.47 % 
+Bash                     8 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+TypeScript               6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Markdown                 4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+💻 Operating System: 
+Mac                      42 hrs 36 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     10 repos            ██████████████░░░░░░░░░░░   55.56 % 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Ruby                     10 repos            █████████████░░░░░░░░░░░░   52.63 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 01/11/2025 18:38:34 UTC
+ Last Updated on 02/11/2025 18:38:08 UTC
 <!--END_SECTION:waka-->
