@@ -1,28 +1,28 @@
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C569%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C577%20hrs%2014%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-315.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318.3%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                749 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-🌆 Daytime                811 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-🌃 Evening                1008 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-🌙 Night                  971 commits         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+🌞 Morning                756 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+🌆 Daytime                818 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+🌃 Evening                1034 commits        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+🌙 Night                  1002 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Tuesday                  498 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Wednesday                423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Thursday                 515 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Friday                   682 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Saturday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Sunday                   680 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Monday                   437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Tuesday                  503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Thursday                 515 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Friday                   684 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Saturday                 338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Sunday                   710 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 ```
 
 
@@ -30,16 +30,16 @@ Sunday                   680 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     13 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Python                   8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Bash                     8 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-TypeScript               6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Markdown                 3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Ruby                     19 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   35.54 % 
+Python                   8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Bash                     8 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+TypeScript               6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Markdown                 3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 💻 Operating System: 
-WSL                      27 hrs 43 mins      ██████████████░░░░░░░░░░░   57.75 % 
-Windows                  10 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Mac                      9 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+WSL                      33 hrs 56 mins      ████████████████░░░░░░░░░   62.69 % 
+Windows                  10 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Mac                      9 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -55,5 +55,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2025 18:39:36 UTC
+ Last Updated on 09/11/2025 18:38:30 UTC
 <!--END_SECTION:waka-->
