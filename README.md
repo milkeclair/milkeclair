@@ -1,7 +1,7 @@
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C624%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318.5%20thousand%20lines%20of%20code-blue)
 
@@ -30,16 +30,15 @@ Sunday                   710 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     19 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-TypeScript               10 hrs 11 mins      █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-JavaScript               7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Markdown                 7 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Python                   4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Ruby                     19 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
+JavaScript               10 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+TypeScript               10 hrs 11 mins      █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Markdown                 7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Bash                     2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-WSL                      43 hrs 4 mins       ███████████████████░░░░░░   76.43 % 
-Mac                      8 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Windows                  4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+WSL                      46 hrs 39 mins      █████████████████████░░░░   84.63 % 
+Mac                      8 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -55,5 +54,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2025 18:42:25 UTC
+ Last Updated on 15/11/2025 18:39:50 UTC
 <!--END_SECTION:waka-->
