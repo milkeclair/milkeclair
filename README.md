@@ -1,9 +1,9 @@
 ```ruby
 Milkeclair.profile do |me|
  me.description do
-  intro "A novice developer."
-  enjoy "Building tools and systems I want to use."
-  good  "I'm good at backend development."
+  intro "ひよっこ開発者"
+  enjoy "自分が欲しいものを作ります"
+  good  "バックエンドがほんのちょっとだけできます"
  end
 
  me.stack do
