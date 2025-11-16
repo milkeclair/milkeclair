@@ -40,9 +40,9 @@ class Milkeclair
  alias_method :enjoy, :intro
  alias_method :good,  :intro
 
- def languages(*)  = self.fav_languages = [*]
+ def languages(*)  = self.fav_languages  = [*]
  def frameworks(*) = self.fav_frameworks = [*]
- def interests(*)  = self.interests = [*]
+ def interests(*)  = self.interests      = [*]
 end
 ```
 </details>
