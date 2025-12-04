@@ -50,7 +50,7 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C730%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C750%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-338.4%20thousand%20lines%20of%20code-blue)
 
@@ -79,15 +79,15 @@ Sunday                   774 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     23 hrs 59 mins      ████████████░░░░░░░░░░░░░   47.94 % 
-Ruby                     8 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-TypeScript               7 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Markdown                 6 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Other                    1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Bash                     25 hrs 48 mins      ███████████░░░░░░░░░░░░░░   43.94 % 
+TypeScript               16 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Markdown                 8 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Ruby                     4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Other                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-WSL                      44 hrs 38 mins      ██████████████████████░░░   89.22 % 
-Mac                      5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+WSL                      46 hrs 40 mins      ████████████████████░░░░░   79.46 % 
+Mac                      12 hrs 3 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -103,5 +103,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2025 18:44:59 UTC
+ Last Updated on 04/12/2025 18:45:08 UTC
 <!--END_SECTION:waka-->
