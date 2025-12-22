@@ -50,28 +50,28 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C851%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C860%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-381.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-383.2%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                919 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-🌆 Daytime                959 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-🌃 Evening                1259 commits        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-🌙 Night                  1075 commits        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+🌞 Morning                919 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+🌆 Daytime                959 commits         ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+🌃 Evening                1269 commits        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌙 Night                  1077 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  589 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Wednesday                474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Thursday                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Friday                   756 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Saturday                 420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Sunday                   846 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Monday                   570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Tuesday                  591 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Wednesday                474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Thursday                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   756 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Saturday                 420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Sunday                   847 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
 ```
 
 
@@ -79,15 +79,15 @@ Sunday                   846 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     36 hrs 55 mins      ███████████████████░░░░░░   75.91 % 
-TypeScript               5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Other                    3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-ERB                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-YAML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Ruby                     38 hrs 34 mins      ███████████████████░░░░░░   75.38 % 
+TypeScript               4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Other                    3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+ERB                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JavaScript               57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-WSL                      41 hrs 25 mins      █████████████████████░░░░   85.19 % 
-Mac                      7 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+WSL                      43 hrs 57 mins      █████████████████████░░░░   85.92 % 
+Mac                      7 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -103,5 +103,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2025 18:41:26 UTC
+ Last Updated on 22/12/2025 18:44:23 UTC
 <!--END_SECTION:waka-->
