@@ -54,42 +54,6 @@ end
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-385.3%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                922 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-🌆 Daytime                963 commits         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-🌃 Evening                1272 commits        ████████░░░░░░░░░░░░░░░░░   30.04 % 
-🌙 Night                  1077 commits        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Tuesday                  597 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Thursday                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   756 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Saturday                 420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   847 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Ruby                     32 hrs              ██████████████████████░░░   89.16 % 
-ERB                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Other                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-
-💻 Operating System: 
-WSL                      33 hrs 49 mins      ████████████████████████░   94.22 % 
-Mac                      2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -103,5 +67,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2025 18:43:10 UTC
+ Last Updated on 26/12/2025 18:42:41 UTC
 <!--END_SECTION:waka-->
