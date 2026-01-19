@@ -50,7 +50,7 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C936%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C938%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-388.56%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,14 +79,14 @@ Sunday                   849 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.82 % 
-Ruby                     4 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.25 % 
-JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TypeScript               7 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.99 % 
+Ruby                     6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-WSL                      13 hrs 51 mins      █████████████████████████   99.98 % 
+WSL                      15 hrs 15 mins      █████████████████████████   99.98 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -103,5 +103,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2026 18:41:55 UTC
+ Last Updated on 19/01/2026 18:44:39 UTC
 <!--END_SECTION:waka-->
