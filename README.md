@@ -50,7 +50,7 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C938%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C943%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-388.56%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,29 +79,29 @@ Sunday                   849 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.99 % 
-Ruby                     6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Ruby                     7 hrs 53 mins       ██████████████░░░░░░░░░░░   54.91 % 
+TypeScript               5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-WSL                      15 hrs 15 mins      █████████████████████████   99.98 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+WSL                      14 hrs              ████████████████████████░   97.50 % 
+Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     10 repos            ████████████░░░░░░░░░░░░░   47.62 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Ruby                     10 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 19/01/2026 18:44:39 UTC
+ Last Updated on 20/01/2026 18:45:53 UTC
 <!--END_SECTION:waka-->
