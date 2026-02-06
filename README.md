@@ -50,7 +50,7 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C018%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391.90%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,14 +79,14 @@ Sunday                   855 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     18 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   37.30 % 
-Markdown                 13 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-TypeScript               12 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-SSH Config               58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Other                    45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Ruby                     16 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   31.67 % 
+Markdown                 15 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+TypeScript               12 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+JSONiq                   2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+SSH Config               58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-WSL                      48 hrs 50 mins      █████████████████████████   100.00 % 
+WSL                      51 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -102,5 +102,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 18:46:54 UTC
+ Last Updated on 06/02/2026 18:46:40 UTC
 <!--END_SECTION:waka-->
