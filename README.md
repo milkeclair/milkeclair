@@ -50,45 +50,9 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C073%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-439.83%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1059 commits        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-🌆 Daytime                1090 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-🌃 Evening                1438 commits        ████████░░░░░░░░░░░░░░░░░   30.17 % 
-🌙 Night                  1180 commits        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Tuesday                  692 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Wednesday                513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Friday                   810 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Saturday                 501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Sunday                   939 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Bash                     10 hrs 31 mins      ████████████░░░░░░░░░░░░░   48.72 % 
-Markdown                 4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Ruby                     3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-
-💻 Operating System: 
-WSL                      21 hrs 12 mins      █████████████████████████   98.18 % 
-Mac                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-440.09%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Ruby** 
 
@@ -103,5 +67,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2026 18:47:58 UTC
+ Last Updated on 25/02/2026 18:48:22 UTC
 <!--END_SECTION:waka-->
