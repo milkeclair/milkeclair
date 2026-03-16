@@ -50,7 +50,7 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C156%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C157%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-433.44%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,15 +79,15 @@ Sunday                   944 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     6 hrs 34 mins       ██████████████░░░░░░░░░░░   56.79 % 
-Markdown                 2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Ruby                     6 hrs 13 mins       ███████████████░░░░░░░░░░   59.36 % 
+Markdown                 3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-WSL                      11 hrs 18 mins      ████████████████████████░   97.64 % 
-Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+WSL                      10 hrs 12 mins      ████████████████████████░   97.39 % 
+Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -103,5 +103,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2026 18:45:35 UTC
+ Last Updated on 16/03/2026 18:48:08 UTC
 <!--END_SECTION:waka-->
