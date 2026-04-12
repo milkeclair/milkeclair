@@ -50,7 +50,7 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C294%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C294%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485.55%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,15 +79,15 @@ Sunday                   1025 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               40 hrs 11 mins      ████████████████░░░░░░░░░   62.46 % 
-Markdown                 16 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Ruby                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Text                     58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TypeScript               40 hrs 14 mins      ██████████████████░░░░░░░   72.09 % 
+Markdown                 8 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Ruby                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Text                     58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-WSL                      64 hrs 13 mins      █████████████████████████   99.83 % 
-Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+WSL                      55 hrs 42 mins      █████████████████████████   99.80 % 
+Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -104,5 +104,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2026 18:45:38 UTC
+ Last Updated on 12/04/2026 18:46:37 UTC
 <!--END_SECTION:waka-->
