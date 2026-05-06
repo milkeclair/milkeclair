@@ -79,15 +79,15 @@ Sunday                   1025 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.38 % 
-Markdown                 6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
-Bash                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-YAML                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-JSONiq                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Other                    6 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+Markdown                 6 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.86 % 
+Bash                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+YAML                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+JSONiq                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 💻 Operating System: 
-WSL                      10 hrs 24 mins      █████████████░░░░░░░░░░░░   51.31 % 
-Mac                      9 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.69 % 
+Mac                      9 hrs 52 mins       ██████████████░░░░░░░░░░░   55.23 % 
+WSL                      8 hrs               ███████████░░░░░░░░░░░░░░   44.77 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -103,5 +103,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 18:58:00 UTC
+ Last Updated on 06/05/2026 19:05:36 UTC
 <!--END_SECTION:waka-->
