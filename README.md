@@ -50,7 +50,45 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C435%20hrs%2038%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-540.84%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1193 commits        █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌆 Daytime                1265 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+🌃 Evening                1654 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
+🌙 Night                  1336 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   770 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  768 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Wednesday                548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Thursday                 692 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Friday                   931 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Sunday                   1116 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    22 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   40.55 % 
+Bash                     8 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Markdown                 8 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Ruby                     6 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+TypeScript               3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+
+💻 Operating System: 
+WSL                      48 hrs 20 mins      ██████████████████████░░░   86.18 % 
+Windows                  7 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+```
 
 **I Mostly Code in Ruby** 
 
@@ -65,5 +103,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 18:48:21 UTC
+ Last Updated on 18/05/2026 19:06:28 UTC
 <!--END_SECTION:waka-->
