@@ -54,6 +54,42 @@ end
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-540.93%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1193 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+🌆 Daytime                1265 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+🌃 Evening                1654 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌙 Night                  1337 commits        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   770 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  768 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Wednesday                549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Thursday                 692 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Friday                   931 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Sunday                   1116 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Ruby                     8 hrs 23 mins       █████████████░░░░░░░░░░░░   51.98 % 
+TypeScript               3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+
+💻 Operating System: 
+WSL                      15 hrs 56 mins      █████████████████████████   99.98 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
 **I Mostly Code in Ruby** 
 
 ```text
@@ -67,5 +103,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 18:49:03 UTC
+ Last Updated on 24/05/2026 18:51:28 UTC
 <!--END_SECTION:waka-->
