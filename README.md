@@ -50,7 +50,7 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C458%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C462%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-540.93%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,15 +79,16 @@ Sunday                   1116 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     7 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.79 % 
-Markdown                 6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
-TypeScript               2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 7 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
+Ruby                     6 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+TypeScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Other                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+PowerShell               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 💻 Operating System: 
-WSL                      13 hrs 18 mins      ██████████████████░░░░░░░   70.08 % 
-Mac                      5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+WSL                      12 hrs 4 mins       █████████████░░░░░░░░░░░░   51.05 % 
+Windows                  5 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Mac                      5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -103,5 +104,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2026 19:17:27 UTC
+ Last Updated on 27/05/2026 19:17:43 UTC
 <!--END_SECTION:waka-->
