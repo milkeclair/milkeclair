@@ -79,14 +79,15 @@ Sunday                   1376 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     21 hrs 57 mins      ████████████████░░░░░░░░░   64.77 % 
-Kotlin                   4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Markdown                 4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Batchfile                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Java                     22 hrs 32 mins      ███████████████░░░░░░░░░░   61.12 % 
+Markdown                 4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Kotlin                   4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Other                    1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 Operating System: 
-WSL                      33 hrs 54 mins      █████████████████████████   100.00 % 
+WSL                      34 hrs 12 mins      ███████████████████████░░   92.78 % 
+Mac                      2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -102,5 +103,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 19:08:52 UTC
+ Last Updated on 06/06/2026 18:54:01 UTC
 <!--END_SECTION:waka-->
