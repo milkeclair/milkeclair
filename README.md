@@ -50,28 +50,28 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C555%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C560%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610.79%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-612.99%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1370 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌞 Morning                1370 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 🌆 Daytime                1554 commits        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-🌃 Evening                1885 commits        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-🌙 Night                  1687 commits        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+🌃 Evening                1885 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌙 Night                  1689 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   831 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 Tuesday                  899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Wednesday                641 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Wednesday                641 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 Thursday                 816 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 Friday                   1204 commits        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
 Saturday                 729 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Sunday                   1376 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Sunday                   1378 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 ```
 
 
@@ -79,16 +79,16 @@ Sunday                   1376 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     21 hrs 26 mins      █████████████░░░░░░░░░░░░   50.02 % 
-Python                   9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Markdown                 6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Ruby                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Java                     24 hrs 19 mins      █████████████░░░░░░░░░░░░   52.79 % 
+Python                   9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Markdown                 6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Ruby                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-WSL                      40 hrs 1 min        ███████████████████████░░   93.40 % 
-Mac                      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Windows                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+WSL                      43 hrs 15 mins      ███████████████████████░░   93.86 % 
+Mac                      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Windows                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -104,5 +104,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2026 19:14:52 UTC
+ Last Updated on 13/06/2026 18:56:47 UTC
 <!--END_SECTION:waka-->
