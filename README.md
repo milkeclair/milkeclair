@@ -50,28 +50,28 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C623%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C627%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.79%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1266 commits        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-🌆 Daytime                1460 commits        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-🌃 Evening                1710 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-🌙 Night                  1644 commits        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌞 Morning                1391 commits        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+🌆 Daytime                1540 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌃 Evening                1819 commits        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+🌙 Night                  1735 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   745 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Wednesday                607 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Thursday                 768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Friday                   1153 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Saturday                 676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Sunday                   1289 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Monday                   814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Tuesday                  885 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Wednesday                627 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Thursday                 823 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Friday                   1244 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Saturday                 718 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   1374 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
 ```
 
 
@@ -79,14 +79,14 @@ Sunday                   1289 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     11 hrs 1 min        ████████████████░░░░░░░░░   62.49 % 
-TypeScript               4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Ruby                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               10 hrs 18 mins      ███████████████░░░░░░░░░░   60.24 % 
+Bash                     5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Ruby                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-WSL                      17 hrs 39 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -102,5 +102,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 18:50:32 UTC
+ Last Updated on 06/07/2026 19:07:31 UTC
 <!--END_SECTION:waka-->
