@@ -50,7 +50,7 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C635%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C638%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.90%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -58,7 +58,7 @@ end
 
 ```text
 🌞 Morning                1391 commits        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-🌆 Daytime                1540 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌆 Daytime                1541 commits        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 🌃 Evening                1819 commits        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
 🌙 Night                  1735 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
 ```
@@ -66,12 +66,12 @@ end
 
 ```text
 Monday                   814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Tuesday                  885 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Tuesday                  885 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 Wednesday                627 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 Thursday                 823 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Friday                   1244 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Friday                   1245 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 Saturday                 718 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   1374 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Sunday                   1374 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
 ```
 
 
@@ -79,14 +79,14 @@ Sunday                   1374 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 47 mins      ████████████████░░░░░░░░░   63.03 % 
-Ruby                     3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Markdown                 2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               12 hrs 16 mins      ██████████████░░░░░░░░░░░   55.11 % 
+Ruby                     4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Markdown                 4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-WSL                      18 hrs 42 mins      █████████████████████████   100.00 % 
+WSL                      22 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -102,5 +102,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2026 19:04:32 UTC
+ Last Updated on 10/07/2026 19:02:03 UTC
 <!--END_SECTION:waka-->
