@@ -50,9 +50,9 @@ end
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkeclair&layout=compact&disable_animations=true&langs_count=20&card_width=1010&bg_color=262c36&hide_border=true&text_color=d1d7e0&title_color=d1d7e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C661%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C663%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611.90%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -81,37 +81,37 @@ Sunday                   1374 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 hrs 40 mins      ██████████████████░░░░░░░   73.63 % 
-Other                    3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Python                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-INI                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-PowerShell               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown                 12 hrs 18 mins      ███████████████░░░░░░░░░░   59.49 % 
+Other                    3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+JavaScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+INI                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-WSL                      23 hrs 40 mins      ██████████████████████░░░   88.60 % 
-Mac                      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+WSL                      17 hrs 39 mins      █████████████████████░░░░   85.28 % 
+Mac                      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 54 mins (93.19%)
+⏱ AI Coding Time: 19 hrs 10 mins (92.64%)
 
-✍️ 4,928 lines written by AI, 303 lines written by hand (94.21% AI-written)
+✍️ 5,355 lines written by AI, 301 lines written by hand (94.68% AI-written)
 
-🔤 648,806,410 Input Tokens, 1,845,928 Output Tokens
+🔤 498,877,598 Input Tokens, 1,364,359 Output Tokens
 
-💵 $2525.80 Estimated AI Cost This Week
+💵 $1996.77 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 737 AI Prompts
+🧠 53 AI Sessions, 625 AI Prompts
 
-GPT                      4,973 lines         █████████████████████████   100.00 % 
+GPT                      5,400 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.21% of written lines came from AI
-📚 Verbose Prompter — average 7,607 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 13.62% of changed lines were hand-edited
+🤖 AI-Driven — 94.68% of written lines came from AI
+📚 Verbose Prompter — average 7,252 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 12.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -127,5 +127,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 18:58:55 UTC
+ Last Updated on 31/07/2026 18:57:28 UTC
 <!--END_SECTION:waka-->
