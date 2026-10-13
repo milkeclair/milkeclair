@@ -1,7 +1,7 @@
 ```ruby
 
 
-Milkeclair.profile do |me|
+Milkeclair.profile do
   desc :beginner
   like :beautiful_dsl
 end
